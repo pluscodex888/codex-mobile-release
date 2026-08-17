@@ -20,7 +20,7 @@
 
 Android 正式签名安装包和编译后的热更新资源统一从 [GitHub Releases](https://github.com/pluscodex888/codex-mobile-release/releases) 下载。每个正式版本同时提供 APK、Android OTA 资源包、OTA 清单和 SHA-256 校验和。
 
-当前正式版：[Android v1.5.14 安装包与更新包](https://github.com/pluscodex888/codex-mobile-release/releases/tag/android-v1.5.14)。本仓库不提供调试签名安装包。
+当前正式版：[Android v1.5.40 安装包与更新包](https://github.com/pluscodex888/codex-mobile-release/releases/tag/android-v1.5.40)。本仓库不提供调试签名安装包。
 
 ## 发布安全
 
